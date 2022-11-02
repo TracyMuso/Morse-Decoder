@@ -79,11 +79,11 @@ npm install
 - GitHub: [@githubhandle](https://github.com/peterboro)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-boro-njuguna/)
 
-👤 **Festus Enning**
+👤 **Md Masuduzzaman**
 
-- GitHub: [@githubhandle](https://github.com/Enning94)
-- Twitter: [@twitterhandle](https://twitter.com/nana_akyerefi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/enning-festus)
+- [Github](https://github.com/Masuduzzaman811)
+- [LinkedIn](https://www.linkedin.com/in/masuduzzaman811/)
+- [Twitter](https://twitter.com/twitterhandle)
 
 
 ## 🤝 Contributing

@@ -43,5 +43,11 @@ end
 
 puts decode_words("-- -.--") # output => "MY"
 
+# Create a method that returns whole sentence from a morse string parameter
+def decode_message(morse)
+  morse.split('   ').map { |word| decode_words(word) }.join(' ')
+end
 
+puts decode_message("-- -.--   -. .- -- .")  #output => "MY NAME"
 
+puts decode_message(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")  #output => "A BOX FULL OF RUBIES"
