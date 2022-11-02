@@ -74,11 +74,10 @@ npm install
 - Twitter: [@twitterhandle](https://twitter.com/tracy_muso)
 - LinkedIn: [@LinkedIn](https://linkedin.com/in/tracy-muso)
 
-👤 **Festus Enning**
+👤 **Peter Njuguna**
 
-- GitHub: [@githubhandle](https://github.com/Enning94)
-- Twitter: [@twitterhandle](https://twitter.com/nana_akyerefi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/enning-festus)
+- GitHub: [@githubhandle](https://github.com/peterboro)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-boro-njuguna/)
 
 👤 **Festus Enning**
 
