@@ -35,3 +35,13 @@ def decode_character(morse)
 end
 
 puts decode_character(".-") # output => "A"
+
+# Create a method to decode a Morse code word & takes a string parameter
+def decode_words(morse)
+  morse.split(' ').map { |char| decode_character(char) }.join
+end
+
+puts decode_words("-- -.--") # output => "MY"
+
+
+
