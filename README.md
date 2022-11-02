@@ -1,6 +1,6 @@
 ## Morse Decoder
 
-> This is our simpe morse decoding app
+> This is our simple morse decoding app. In it are declared functions that can decode single characters, words and a whole sentence
 
 
 ![](https://img.shields.io/badge/Microverse-blueviolet).
@@ -15,21 +15,20 @@
 
 - N/A
 
-
 ## Getting Started
 
 **To get a local copy up and running follow these simple example steps.**
 
 # Prerequisites
 
-- Github flow knowledge. -Intermediate Ruby. -Installation of linter files.
+- Github flow knowledge. -Intermediate Ruby. -Installation of linter files. -Installation of ruby
 
 # Setup 
 - To get a local copy follow these simple steps:
 
 - Clone Your Github Repository Follow these steps to clone your Clone Your Github Repository Follow these steps to clone my Github repo on Windows:
 
-   - Open Git Bash;
+   - Open Git Bash ;
 
    - If Git is not already installed, it is super simple. Just go to the Git Download Folder and follow the instructions.
 
@@ -60,14 +59,14 @@ npm install
 
 
 # Usage
-- This can be used to check out shows that are available to stream. One can like and comment on a particular show.
-- **NOTE**: The mobile version is currently unavailable.
+- This can be used to translate morse code to english
 
 # Install
 - Set up Github Actions
 - Set up linter > Rubocop
+- Set up ruby
 
-## Author
+## Authors
 
 👤 **Tracy Musongole**
 
